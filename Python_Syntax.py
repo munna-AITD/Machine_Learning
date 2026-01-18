@@ -1,10 +1,7 @@
 #Indentation in Python 
-"""Python Indentation refers to the use of whitespace (spaces or tabs) at
-the beginning of code line. It is used to define the code blocks.
-Indentation is crucial in Python because, unlike many other programming
-languages that use braces "{}" to define blocks, Python uses indentation.
-It improves the readability of Python code, but on other hand it became
-difficult to rectify indentation errors."""
+"""Python Indentation refers to the use of whitespace (spaces or tabs) at the beginning of code line. It is used to define the code blocks.
+Indentation is crucial in Python because, unlike many other programming languages that use braces "{}" to define blocks, Python uses indentation.
+It improves the readability of Python code, but on other hand it became difficult to rectify indentation errors."""
 ###Python Variables####
 "Variables in Python are essentially named references pointing to objects in memory."
 "Variable can be start with alphabetical letter not start with a number"
@@ -75,3 +72,4 @@ print(s)
 name = input("Please enter your name: ")
 # Print the input
 print(f"Hello," + name)
+
